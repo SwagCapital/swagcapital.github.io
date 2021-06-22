@@ -68,3 +68,12 @@ Those next picks we will be discussing in future posts, in the meantime make sur
 Thank you for reading - Swag Capital
 
 *for any questions regarding todays post, please email swagcapital.newsletter@gmail.com with the Title of the post followed by QUESTION*
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YZSZGMKYE0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YZSZGMKYE0');
+</script>
